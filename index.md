@@ -21,4 +21,4 @@ Read the blog →</a>
 
 - [GitHub](https://github.com/Suman-Git-DS)
 - [Medium](https://medium.com/@whitemansion1990)
-- [LinkedIn](www.linkedin.com/in/suman-ghosh-185b6651)
+- [LinkedIn](https://www.linkedin.com/in/suman-ghosh-185b6651)
