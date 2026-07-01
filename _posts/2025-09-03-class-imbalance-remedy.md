@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Harness Engineering: The Infrastructure Layer That Makes AI Agents Actually Work"
+title: "Class Imbalance Remedy"
 date: 2025-09-03
 ---
 
