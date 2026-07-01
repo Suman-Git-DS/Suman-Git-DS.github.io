@@ -4,8 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-{% include nav.html %}
-
 # Blog
 
 {% for post in site.posts %}
