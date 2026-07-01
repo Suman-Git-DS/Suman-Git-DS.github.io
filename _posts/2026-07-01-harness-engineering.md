@@ -4,8 +4,6 @@ title: "Harness Engineering: The Infrastructure Layer That Makes AI Agents Actua
 date: 2026-07-01
 ---
 
-{% include nav.html %}
-
 # Harness Engineering: The Infrastructure Layer That Makes AI Agents Actually Work
 
 *Prompt engineering writes the instructions. Context engineering curates what the model sees. Harness engineering controls what the system can and cannot do.*
