@@ -5,7 +5,7 @@ date: 2025-09-03
 ---
 
 
-**ML Series - XGBoost , Use of scale_pos_weight in reducing class imbalance**
+# ML Series - XGBoost , Use of scale_pos_weight in reducing class imbalance
 
 
 
