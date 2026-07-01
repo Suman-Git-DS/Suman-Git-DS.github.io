@@ -3,8 +3,6 @@ layout: default
 title: Suman Ghosh
 ---
 
-{% include nav.html %}
-
 # Suman Ghosh
 
 **Lead Applied AI Scientist · AI Systems Architect · Production ML**
