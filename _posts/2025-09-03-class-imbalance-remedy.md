@@ -4,8 +4,6 @@ title: "Class Imbalance Remedy"
 date: 2025-09-03
 ---
 
-{% include nav.html %}
-
 
 **ML Series - XGBoost , Use of scale_pos_weight in reducing class imbalance**
 
