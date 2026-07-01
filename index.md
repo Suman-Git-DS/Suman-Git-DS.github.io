@@ -68,3 +68,7 @@ Read the blog →</a>
 <a href="/contact/" style="display:inline-block;padding:10px 22px;background:transparent;
 color:#159957;border:2px solid #159957;border-radius:6px;text-decoration:none;font-weight:600;margin-top:8px;">
 Get in touch →</a>
+<a href="/assets/Suman_Ghosh_Resume_2026 (1).pdf" download style="display:inline-block;padding:10px 22px;
+background:transparent;color:#159957;border:2px solid #159957;border-radius:6px;
+text-decoration:none;font-weight:600;margin-top:8px;">
+Download full CV (PDF) →</a>
