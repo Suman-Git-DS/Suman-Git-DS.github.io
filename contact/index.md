@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-{% include nav.html %}
-
 # Contact
 
 Feel free to reach out.
