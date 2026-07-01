@@ -52,21 +52,21 @@ A harness is the sum of mechanisms that operate **around** the agent, not inside
 ┌──────────────────────────────────────────────────────────────────┐
 │                        AGENT HARNESS                             │
 │                                                                  │
-│  ┌─────────────┐   ┌─────────────┐   ┌────────────────────┐     │
-│  │ 1. Context  │   │ 2. Tools &  │   │  3. Constraints    │     │
-│  │    Files    │   │ MCP Servers │   │     & Linters      │     │
-│  │ (AGENTS.md) │   │ (scoped     │   │ (what cannot       │     │
-│  │ (CLAUDE.md) │   │  access)    │   │  happen at all)    │     │
-│  └─────────────┘   └─────────────┘   └────────────────────┘     │
+│  ┌─────────────┐   ┌─────────────┐   ┌────────────────────┐      │
+│  │ 1. Context  │   │ 2. Tools &  │   │  3. Constraints    │      │
+│  │    Files    │   │ MCP Servers │   │     & Linters      │      │
+│  │ (AGENTS.md) │   │ (scoped     │   │ (what cannot       │      │
+│  │ (CLAUDE.md) │   │  access)    │   │  happen at all)    │      │
+│  └─────────────┘   └─────────────┘   └────────────────────┘      │
 │                                                                  │
-│  ┌──────────────────────────────┐   ┌────────────────────────┐  │
-│  │  4. Feedback Loops           │   │  5. Observability      │  │
-│  │  (CI · tests · error-to-ctx  │   │  (traces · logs        │  │
-│  │   · structured retry)        │   │   · metrics)           │  │
-│  └──────────────────────────────┘   └────────────────────────┘  │
+│  ┌──────────────────────────────┐   ┌────────────────────────┐   │
+│  │  4. Feedback Loops           │   │  5. Observability      │   │
+│  │  (CI · tests · error-to-ctx  │   │  (traces · logs        │   │
+│  │   · structured retry)        │   │   · metrics)           │   │
+│  └──────────────────────────────┘   └────────────────────────┘   │
 │                                                                  │
 │                  ┌──────────────────┐                            │
-│                  │    LLM AGENT     │  ← brain, not the system  │
+│                  │    LLM AGENT     │  ← brain, not the system   │
 │                  └──────────────────┘                            │
 └──────────────────────────────────────────────────────────────────┘
 ```
